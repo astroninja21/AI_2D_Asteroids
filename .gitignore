@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/workspace.xml
+.idea/AI_2D_Asteroids.iml
+.idea/modules.xml
+.idea/vcs.xml
